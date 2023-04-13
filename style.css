@@ -121,6 +121,7 @@ body {
   border-radius: 9px;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
+  font-weight: var(--font-weight-bold);
   cursor: pointer;
   color: var(--white);
   background-color: var(--dark-cyan);
